@@ -1,4 +1,4 @@
-# SoftBankによる Alibaba Cloud Technical site
+# Alibaba Cloud Technical site
 
 新しいテクニカルサイトのURLはこちらです。    
 
